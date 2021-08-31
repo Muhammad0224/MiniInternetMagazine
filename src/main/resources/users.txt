@@ -1,0 +1,159 @@
+[
+  {
+    "login": "Admin777",
+    "password": "7770224",
+    "id": "7777777",
+    "type": "ADMIN_MAIN",
+    "myStorage": {
+      "goods": [
+        {
+          "name": "kosa",
+          "price": 120000.0,
+          "quantity": 20.0,
+          "seller": "Admin777",
+          "currency": "SUM",
+          "marks": []
+        }
+      ]
+    },
+    "basket": {
+      "goods": []
+    },
+    "myGoods": {
+      "goods": [
+        {
+          "name": "kosa",
+          "price": 2.0,
+          "quantity": 2.0,
+          "seller": "Ko",
+          "currency": "USD",
+          "marks": [
+            4.0
+          ]
+        }
+      ]
+    },
+    "soldGoods": {
+      "goods": [
+        {
+          "name": "kosa",
+          "price": 12000.0,
+          "quantity": 1.0,
+          "seller": "Admin777",
+          "currency": "SUM",
+          "marks": []
+        }
+      ]
+    },
+    "cards": [
+      {
+        "cardId": "8600050622143651",
+        "cardType": "UZCARD",
+        "balance": 1470000.0,
+        "cardOrdinal": 1,
+        "isMain": true
+      }
+    ]
+  },
+  {
+    "login": "Ko",
+    "password": "111111111",
+    "id": "5008540",
+    "type": "ADMIN",
+    "myStorage": {
+      "goods": [
+        {
+          "name": "kosa",
+          "price": 2.0,
+          "quantity": 2.0,
+          "seller": "Ko",
+          "currency": "USD",
+          "marks": []
+        }
+      ]
+    },
+    "basket": {
+      "goods": [
+        {
+          "name": "Kosa",
+          "price": 12000.0,
+          "quantity": 9.0,
+          "seller": "Admin777",
+          "currency": "SUM",
+          "marks": []
+        }
+      ]
+    },
+    "myGoods": {
+      "goods": [
+        {
+          "name": "kosa",
+          "price": 12000.0,
+          "quantity": 1.0,
+          "seller": "Admin777",
+          "currency": "SUM",
+          "marks": []
+        }
+      ]
+    },
+    "soldGoods": {
+      "goods": [
+        {
+          "name": "kosa",
+          "price": 2.0,
+          "quantity": 2.0,
+          "seller": "Ko",
+          "currency": "USD",
+          "marks": [
+            4.0
+          ]
+        }
+      ]
+    },
+    "cards": [
+      {
+        "cardId": "1111111111111111",
+        "cardType": "UZCARD",
+        "balance": 1.503E7,
+        "cardOrdinal": 1,
+        "isMain": true
+      }
+    ]
+  },
+  {
+    "login": "ki",
+    "password": "33333333",
+    "id": "1900699",
+    "type": "USER",
+    "myStorage": {
+      "goods": []
+    },
+    "basket": {
+      "goods": [
+        {
+          "name": "kosa",
+          "price": 2.0,
+          "quantity": 1.0,
+          "seller": "Ko",
+          "currency": "USD",
+          "marks": []
+        },
+        {
+          "name": "kosa",
+          "price": 2.0,
+          "quantity": 20.0,
+          "seller": "Admin777",
+          "currency": "USD",
+          "marks": []
+        }
+      ]
+    },
+    "myGoods": {
+      "goods": []
+    },
+    "soldGoods": {
+      "goods": []
+    },
+    "cards": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "customer": "Ko",
+    "seller": "Admin777",
+    "goodsName": "kosa",
+    "quantity": 1.0,
+    "price": 12000.0,
+    "currency": "SUM",
+    "summa": 12000.0,
+    "date": {
+      "year": 2021,
+      "month": 5,
+      "day": 31
+    },
+    "time": {
+      "hour": 21,
+      "minute": 31,
+      "second": 31,
+      "nano": 441000000
+    }
+  },
+  {
+    "customer": "Admin777",
+    "seller": "Ko",
+    "goodsName": "kosa",
+    "quantity": 2.0,
+    "price": 2.0,
+    "currency": "USD",
+    "summa": 4.0,
+    "date": {
+      "year": 2021,
+      "month": 6,
+      "day": 1
+    },
+    "time": {
+      "hour": 9,
+      "minute": 36,
+      "second": 15,
+      "nano": 161000000
+    }
+  }
+]

@@ -1,0 +1,4 @@
+Incompatible card number -> 2021-05-31 21:23:52.257
+Invalid number -> 2021-05-31 21:26:53.321
+There is no product in this quantity in seller's storage -> 2021-05-31 21:29:24.557
+The confirmation is not the same as the password  -> 2021-05-31 21:34:42.175

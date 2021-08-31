@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Kosa",
+    "price": 12000.0,
+    "quantity": 9.0,
+    "seller": "Admin777",
+    "currency": "SUM",
+    "marks": []
+  },
+  {
+    "name": "kosa",
+    "price": 2.0,
+    "quantity": 2.0,
+    "seller": "Ko",
+    "currency": "USD",
+    "marks": [
+      4.0
+    ]
+  },
+  {
+    "name": "kosa",
+    "price": 120000.0,
+    "quantity": 20.0,
+    "seller": "Admin777",
+    "currency": "SUM",
+    "marks": []
+  },
+  {
+    "name": "kosa",
+    "price": 12000.0,
+    "quantity": 1.0,
+    "seller": "Admin777",
+    "currency": "SUM",
+    "marks": []
+  },
+  {
+    "name": "kosa",
+    "price": 2.0,
+    "quantity": 2.0,
+    "seller": "Ko",
+    "currency": "USD",
+    "marks": []
+  },
+  {
+    "name": "kosa",
+    "price": 2.0,
+    "quantity": 1.0,
+    "seller": "Ko",
+    "currency": "USD",
+    "marks": []
+  },
+  {
+    "name": "kosa",
+    "price": 2.0,
+    "quantity": 20.0,
+    "seller": "Admin777",
+    "currency": "USD",
+    "marks": []
+  }
+]
